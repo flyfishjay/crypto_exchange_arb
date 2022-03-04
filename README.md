@@ -1,6 +1,7 @@
 # crypto_exchange_arb
 
-
+# **Summary**
+Identifying and profiting from Etherium arbitrage opportunities utilizing different volatility and cost structures.
 
 # **Technologies**
 This project leverages Python 3.7 in Google Colab with the following libraries:
